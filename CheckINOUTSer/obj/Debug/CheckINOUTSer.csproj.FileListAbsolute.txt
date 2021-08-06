@@ -1,0 +1,13 @@
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.csprojAssemblyReference.cache
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.csproj.GenerateResource.cache
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.csproj.CoreCompileInputs.cache
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\bin\Debug\CheckINOUTSer.exe.config
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\bin\Debug\CheckINOUTSer.exe
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\bin\Debug\CheckINOUTSer.pdb
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.exe
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.pdb
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.DoorConSer.resources
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\bin\Debug\CheckINOUTSer.exe.manifest
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\bin\Debug\CheckINOUTSer.application
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.exe.manifest
+D:\Project Door\CheckINOUTSer\CheckINOUTSer\obj\Debug\CheckINOUTSer.application

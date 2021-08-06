@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckINOUTSer", "CheckINOUTSer\CheckINOUTSer.csproj", "{C016F1CB-935D-4B5C-8D95-5DB64FFEED4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C016F1CB-935D-4B5C-8D95-5DB64FFEED4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C016F1CB-935D-4B5C-8D95-5DB64FFEED4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C016F1CB-935D-4B5C-8D95-5DB64FFEED4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C016F1CB-935D-4B5C-8D95-5DB64FFEED4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F613A3B-6CB0-493C-A853-80C8E983B774}
+	EndGlobalSection
+EndGlobal
